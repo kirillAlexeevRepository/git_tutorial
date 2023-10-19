@@ -3,6 +3,9 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("We Learn Git");
         System.out.println("GitfourCommit");
+        System.out.println("We Learn Git");
+        System.out.println("GitfourCommit");
         System.out.println("IdeaCommit");
+        System.out.println("DefaultCommit");
     }
 }
