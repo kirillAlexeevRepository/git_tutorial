@@ -7,6 +7,6 @@ public class HelloSpring {
         System.out.println("Create Branch 2.1");
         System.out.println("Create Branch 2.2");
         System.out.println("Default Commit after Creating All Branches");
-
+        System.out.println("New One Commit");
     }
 }
