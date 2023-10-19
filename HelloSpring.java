@@ -9,6 +9,6 @@ public class HelloSpring {
         System.out.println("Default Commit after Creating All Branches");
         System.out.println("New One Commit");
         System.out.println("GitPush from 2 Player");
-
+        System.out.println("GitPush from 1 Player");
     }
 }
