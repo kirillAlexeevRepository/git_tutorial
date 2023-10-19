@@ -3,5 +3,6 @@ public class HelloSpring {
         System.out.println("Hello Spring");
         System.out.println("Create new branch");
         System.out.println("HelloWorld");
+        System.out.println("Merge in default");
     }
 }
